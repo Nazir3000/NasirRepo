@@ -4,10 +4,10 @@ void testMethod1()
   {
   //First command x = y + z
   //Second commnad print(x)
-  uhyggyu
+  //Edit made by Nasir
 
 
-  //Last line print('Good bye')
+  //Last line print('TA TA')
 }
 
 void testMethod2()
